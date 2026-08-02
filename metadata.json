@@ -1,0 +1,8 @@
+{
+  "name": "I CON Humsafar",
+  "description": "Trusted Matrimonial Platform with verified profiles, AI matchmaking, masked calling, and privacy controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
